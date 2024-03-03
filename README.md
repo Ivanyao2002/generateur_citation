@@ -1,2 +1,2 @@
-# generateur_citation
- Notre permet d'explorer des milliers de citations 
+# Génerateur de citation
+ Notre application vous permet d'explorer de milliers de citations 
